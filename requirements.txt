@@ -1,4 +1,3 @@
-telegram
 config
 spotipy
 ujson
