@@ -19,6 +19,7 @@ run_strings = (
     "ZZzzZZzz... Huh? what? oh, just him again, nevermind.",
     "Get back here!",
     "Not so fast...",
+    "Go listen songs and run fast...",
     "Look out for the wall!",
     "Don't leave me alone with them!!",
     "You run, you die.",
